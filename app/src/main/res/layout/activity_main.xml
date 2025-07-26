@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Desafío 1 - Desarrollo Móvil"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="24dp"/>
+
+
+    <Button
+        android:id="@+id/btnPromedio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ejercicio 1: Promedio" />
+
+    <Button
+        android:id="@+id/btnSalario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ejercicio 2: Salario"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/btnCalculadora"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ejercicio 3: Calculadora"
+        android:layout_marginTop="16dp" />
+</LinearLayout>
