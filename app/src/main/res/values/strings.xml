@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Desafío 1</string>
+
+    <!-- MainActivity -->
+    <string name="btn_promedio">Ejercicio 1: Promedio</string>
+    <string name="btn_salario">Ejercicio 2: Salario</string>
+    <string name="btn_calculadora">Ejercicio 3: Calculadora</string>
+
+    <!-- PromedioActivity -->
+    <string name="hint_nombre_estudiante">Nombre del estudiante</string>
+    <string name="hint_nota1">Nota 1</string>
+    <string name="hint_nota2">Nota 2</string>
+    <string name="hint_nota3">Nota 3</string>
+    <string name="hint_nota4">Nota 4</string>
+    <string name="hint_nota5">Nota 5</string>
+    <string name="btn_calcular_promedio">Calcular Promedio</string>
+
+    <!-- SalarioActivity -->
+    <string name="hint_nombre_empleado">Nombre del empleado</string>
+    <string name="hint_salario_base">Salario base</string>
+    <string name="btn_calcular_salario">Calcular Salario</string>
+
+    <!-- CalculadoraActivity -->
+    <string name="hint_num1">Número 1</string>
+    <string name="hint_num2">Número 2</string>
+    <string name="btn_sumar">Sumar</string>
+    <string name="btn_restar">Restar</string>
+    <string name="btn_multiplicar">Multiplicar</string>
+    <string name="btn_dividir">Dividir</string>
+    <string name="btn_exponente">Exponente</string>
+    <string name="btn_raiz">Raíz Cuadrada</string>
+
+    <!-- Mensajes genéricos -->
+    <string name="error_campo_vacio">Este campo es obligatorio</string>
+    <string name="error_rango">Valor fuera del rango (0-10)</string>
+    <string name="error_div_cero">División entre cero no permitida</string>
+    <string name="resultado">Resultado: %1$s</string>
+</resources>
